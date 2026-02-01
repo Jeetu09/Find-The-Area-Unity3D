@@ -2,6 +2,9 @@
 
 Find the Area is an educational 3D first-person Unity game that helps students learn how to calculate the area of different shapes using real-life scenarios.
 
+**🎮 Game Play link**
+https://cdac.olabs.edu.in/?sub=80&brch=89&sim=985&cnt=4
+
 **🎯 Learning Objectives**
 
 Understand area of square, rectangle, triangle, and circle
